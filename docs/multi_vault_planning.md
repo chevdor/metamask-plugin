@@ -120,7 +120,7 @@ If we adopt a ReactStore style unidirectional action dispatching data flow, thes
     how to send actions?
     emitAction(keychains.<id>.didInit)
 
-
+```js
 gimmeRemoteKeychain((err, remoteKeychain)=>
 
 )
@@ -173,3 +173,4 @@ KeyChainViewState {
 	}
 }
 
+```
