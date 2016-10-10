@@ -1,5 +1,6 @@
 https://hackmd.io/JwIwDMDGKQZgtAFgKZjEgbARhPAhgKxZbwAcA7LAWOQCaKEgFA==?edit
 
+```
 Subscribablez(initState)
  .subscribe()
  .emitUpdate(newState)
@@ -11,7 +12,7 @@ ReduxStore(reducer, initState)
 .reduce(action) -> .emitUpdate()
 
 ReduxStore.subscribe(toDisk)
-
+```
 
 ### KeyChainManager / idStore 2.0 (maybe just in MetaMaskController)
 	keychains: []
