@@ -30,6 +30,12 @@ npm install
 
 #### In Chrome
 
+First build the extension:
+
+```bash
+npm run dist
+```
+
 Open `Settings` > `Extensions`.
 
 Check "Developer mode".
